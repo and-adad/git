@@ -1,0 +1,17 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "My Node App",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "nightwatch": "^0.9.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Amirkhanov",
+  "license": "ISC"
+}
